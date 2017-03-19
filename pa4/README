@@ -1,0 +1,10 @@
+Katerina Chinnappan
+kachinna
+PA4
+
+I tested my Graph using GraphTest and it seems to work fine.
+
+Everything works propery.
+To test , make -f Makefile
+to test GraphTest - make GraphTest
+
